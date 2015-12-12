@@ -1,1 +1,0 @@
-{"runners":{"configs":{"recommend":{"variables":{},"ram":256,"options":{}}},"default":"system:/php/web/php56_apache2"},"builders":{"configs":{}},"mixinTypes":[],"description":"A simple HTML application based on Twitter Bootstrap.","type":"php","attributes":{"language":["php"]}}
