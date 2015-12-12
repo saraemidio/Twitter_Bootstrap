@@ -1,0 +1,1 @@
+{"runners":{"configs":{},"default":"system:/php/web/php56_apache2"},"builders":{"configs":{}},"mixinTypes":["contribution"],"type":"blank","attributes":{"contribute_branch":["master"],"contribute_mode":["contribute"]}}
